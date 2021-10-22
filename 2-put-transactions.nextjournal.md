@@ -109,7 +109,7 @@ Additional information:
 
 [commodities.txt][nextjournal#file#48b4711b-6c2d-4b09-9584-a15ef4f05ef2]
 
-[commodities.txt](files/commodities.txt)
+[commodities.txt][files/commodities.txt]
 
 You make your way over to the mines on the next shuttle. On your way you decide to get a head start and put the commodities into xtdb.
 
